@@ -21,4 +21,12 @@ Four principles of OOps
    All Java variables must be identified with unique names.
    These unique names are called identifiers.
 
+   Method - Syntax
+   accessmodifier returntype methodName (parameter){
+   //method-body
+   }
+
+Method overLoading -method name and return type are same but parameter different
+Signature -
+
 Auther - Piyush Mishra
