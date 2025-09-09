@@ -1,3 +1,5 @@
+package Method;
+
 // printing sum of Array
 public class Method {
   public static void main(String[] args) {
