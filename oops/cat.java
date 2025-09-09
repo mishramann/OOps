@@ -1,3 +1,5 @@
+package oops;
+
 public class cat extends Animal {
   String breed;// inheritance example
 

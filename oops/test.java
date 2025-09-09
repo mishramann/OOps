@@ -1,3 +1,5 @@
+package oops;
+
 class Cat {
   String name;
 }
