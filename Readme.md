@@ -27,8 +27,12 @@ Four principles of OOps
    }
 
    tokens -
+   Method Overriding - it is also a principle of polymorphism if the child class implement the same method again
+   Method overLoading - it is the principle of polymorphism a class with the multiple method with different parameter method name and return type are same but parameter different
+   Method Signature - methodName(argumentlist)
+   m1(int num , String s);
 
-Method overLoading -method name and return type are same but parameter different
-Signature -
+Mutable -:
+Mutable class objects are those whose state can be modified after initialization. This means the values of their fields can be changed, add or remove elements from the collections they contain, ie generally alter their internal state. Examples of mutable objects are Java's StringBuilder, StringBuffer, & java.util.Date.
 
 Auther - Piyush Mishra
