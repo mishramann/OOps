@@ -62,4 +62,7 @@ Multithreading
 
 //System.out.println(Thread.currentThread().getName()); //for check which thread you are in
 
+When a java program starts, one thread running immediately, which is called the main thread, This thread is responsible for executing the main method of program
+to create a new thread in java, you can either extend a thread class or Runnable interface
+
 Author - Piyush Mishra
