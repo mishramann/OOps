@@ -10,7 +10,7 @@ Method - Behaviour
 OOps - Object and class
 Four principles of OOps
 
-1. Encapsulation -Buundling of data and method into a single unit called class. hide the thing which thing user not want to see anyone.
+1. Encapsulation -Bundling of data and method into a single unit called class. hide the thing which we not want to see anyone.
 2. Inheritance - child class inherit the property of parent class.
 3. Polymorphism - make a various class implement through parents and acces them with object by reference to the parent class
 4. Abstraction - hiding implementation details
@@ -18,8 +18,7 @@ Four principles of OOps
    50 keywords: are actively used in Java programming.
    2 keywords(const and goto):are reserved but not actively used in modern Java programming.They exist to prevent future conflicts or misuse.
    It is important to note that keywords cannot be used as identifiers(like variable or class names) because they are reserved for specific functions within the language.
-   All Java variables must be identified with unique names.
-   These unique names are called identifiers.
+   All Java variables must be identified with unique names These unique names are called identifiers.
 
    Method - Syntax
    accessmodifier returntype methodName (parameter){
@@ -28,7 +27,9 @@ Four principles of OOps
 
    tokens -
    Method Overriding - it is also a principle of polymorphism if the child class implement the same method again
+   it can be done in compile time
    Method overLoading - it is the principle of polymorphism a class with the multiple method with different parameter method name and return type are same but parameter different
+   it can be done in run time
    Method Signature - methodName(argumentlist)
    m1(int num , String s);
 

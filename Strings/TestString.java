@@ -55,6 +55,15 @@ public class TestString {
     // System.out.println(i);
     // System.out.println(name.lastIndexOf("pan"));
     // System.out.println(name.indexOf("a", 5));
+    // int a = 10;
+    // String s = String.valueOf(a);
+    // System.out.println(s);
+    // String formatString = String.format("My name is %s and I am %d years old",
+    // "john", 25);
+    // System.out.println(formatString); // My name is john and I am 25 year old.
+    System.out.println(name.substring(2, 6));// ar p
+    System.out.println(name.substring(4, 8));// pan
+    System.out.println(name.substring(3, 7));// r pa
 
   }
 }

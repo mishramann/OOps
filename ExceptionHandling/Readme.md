@@ -9,6 +9,26 @@ The Exception Handling is a way to handle the runtime errors so that the normal 
 
 Exception is an event that disrupts the normal flow of the program. It is an object which is thrown at runtime.
 
+the Exception Which are checked by Compile Time are called -> Checked Exception
+the Exception Which are not checked by Compile Time are called -> Unchecked Exception
+
 Null Pointer Exception
 //Tostering Method
-//Stack trace
+//Stack trace - provide a detailed information of the method call that led to Exception
+// herarchy
+// index bound Exception
+
+. What is Exception
+. Handling Exception
+. Heirarchy
+. Multiple Catch Block
+. TOString()
+
+//Teqnics to Handle the Exception
+.Try ->
+.Catch ->
+.Throw ->
+.Throws ->
+.finally ->
+.Try with Resources ->
+.custom Exception ->
