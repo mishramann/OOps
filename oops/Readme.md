@@ -34,5 +34,8 @@ Four principles of OOps
 
 Mutable -:
 Mutable class objects are those whose state can be modified after initialization. This means the values of their fields can be changed, add or remove elements from the collections they contain, ie generally alter their internal state. Examples of mutable objects are Java's StringBuilder, StringBuffer, & java.util.Date.
+Multiple Inheritence not work in java
+Method Overloading - Compile Time
+Metho Overriding - Runtime -> its also called Dynamic method dispatch
 
 Auther - Piyush Mishra

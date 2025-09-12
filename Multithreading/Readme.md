@@ -65,4 +65,27 @@ Multithreading
 When a java program starts, one thread running immediately, which is called the main thread, This thread is responsible for executing the main method of program
 to create a new thread in java, you can either extend a thread class or Runnable interface
 
+. A new class World is created that extends Thread.
+. The run method is overridden to define the code that constitutes the new thread.
+. start method is called to initiate the new thread.
+. A new class World is created that implements Runnable.
+. A thread object is created by passing an instanceof World.
+.start method is called on the Thread objwect to initiate the new thread.
+
+Thread LifeCycle - create hua run hua then terminate hogaya
+
+The LifeCycle of Thread in java consists of several states, Which a thread can move through during its execution
+
+# New - A thread is in this state when it is created but not yet started.
+
+# Runnable - After the start method called, the thread becomes runnable. it's ready to run and is waiting for CPU time.
+
+# Running - the thread is in this state when it is executing.
+
+# Blocked/Waiting - A thread is in the state when it is waiting for a resource or for another Thread to perform an action.
+
+# Terminated - A thread is in this state when it has a finished executing
+
+//start run sleep join setPriority interrupt yield setDaeman
+
 Author - Piyush Mishra

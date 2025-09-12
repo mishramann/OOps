@@ -1,11 +1,14 @@
 package Multithreading;
 
+// import java.util.Scanner;
+
 public class test {
   public static void main(String[] args) {
-
-    for (;;) {
-      System.out.println("hello");
-    }
+    // Scanner sc = new Scanner(System.in);
+    // int n = sc.nextInt();
+    // if (n % 2 == 0) {
+    // System.out.println("Hello World");
+    // }
 
   }
 }
